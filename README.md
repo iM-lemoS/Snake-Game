@@ -28,6 +28,12 @@ The project follows a modular architecture based on Object-Oriented Programming,
 
 To visualize the relationships between these classes, you can consult the **UML Diagram** included in the repository.
 
+### 📸 Visual Demonstration
+
+| <img src="Gameplay/Lobby.png" width="200"/> | <img src="Gameplay/Settings.png" width="200"/> |
+
+| <img src="Gameplay/Skins Snake.png" width="200"/> | <img src="Gameplay/Gameplay.png" width="200"/> |
+
 ## 🚀 How to Run the Project
 
 ### Prerequisites
