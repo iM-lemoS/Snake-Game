@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<BaseDados>
+    <Pontuações>
+        <Fácil>
+            <F>4</F>
+        </Fácil>
+        <Médio>
+            <M>6</M>
+            <M>0</M>
+            <M>1</M>
+        </Médio>
+        <Difícil>
+            <D>10</D>
+            <D>1</D>
+            <D>3</D>
+        </Difícil>
+        <Hardcore>
+            <H>1500</H>
+        </Hardcore>
+    </Pontuações>
+</BaseDados>
